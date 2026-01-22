@@ -1,0 +1,1 @@
+# october-2025-aws-cli
